@@ -5,48 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TruthTrack.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Proto/PAM based model.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Proto/news.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Proto/news.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Proto/news.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Proto/nmf_model.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Proto/nmf_model_params.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Proto/tfidf_vectorizer.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/.idea/Topic_Modelling_news.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/.idea/jupyter-settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/News_Topic.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/News_Topic.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/News_Topic_.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/Similarity_news.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/categorized_news.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/lda_dictionary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/lda_model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/lda_model.model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/lda_model.model.expElogbeta.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/lda_model.model.id2word" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/lda_model.model.state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/lda_model1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/News Topic/news_topic.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/similarity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TruthTrack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TruthTrack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,15 +58,7 @@
   &quot;lastFilter&quot;: {}
 }</component>
   <component name="GitHubPullRequestState">{
-  &quot;prStates&quot;: [
-    {
-      &quot;id&quot;: {
-        &quot;id&quot;: &quot;PR_kwDONafvKM6Gj-0P&quot;,
-        &quot;number&quot;: 16
-      },
-      &quot;lastSeen&quot;: 1735809664000
-    }
-  ]
+  &quot;prStates&quot;: []
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -115,10 +69,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 1
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2qkpkgMGCRN4dDCTOhweZDJ5WmJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -280,6 +233,8 @@
       <workItem from="1742922805267" duration="33000" />
       <workItem from="1742922839724" duration="1084000" />
       <workItem from="1742924165289" duration="4000" />
+      <workItem from="1742924488271" duration="22000" />
+      <workItem from="1742924511560" duration="315000" />
     </task>
     <servers />
   </component>
