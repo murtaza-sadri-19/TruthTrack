@@ -14,8 +14,8 @@ def google_search(api_key, search_engine_id, query, **params):
     return response.json()
 
 # API credentials
-api_key = 'AIzaSyC6oIUD2f1iuXGadfVPksbAQpHJSvcFtvk'
-search_engine_id = '5047be7447f514341'
+api_key = '***************************************'
+search_engine_id = '*****************'
 query = 'Virat Kohli retirement from international T20'
 
 # Collect search results
