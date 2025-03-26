@@ -5,153 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Rendered flask app template files">
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/.idea/TruthTrack.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/.idea/jupyter-settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/templates/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/background.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/content.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/icons/icon128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/icons/icon16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/icons/icon48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/popup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthtell_extension/popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/analysis_options.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/kotlin/com/example/flutter_application_1/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/assets/Frame1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/image-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/linux/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/linux/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/linux/flutter/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/linux/flutter/generated_plugins.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/linux/my_application.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/Runner/Release.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/web/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/web/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/web/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/web/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/web/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/web/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/flutter/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/flutter/generated_plugins.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/Runner.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/flutter_window.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/flutter_window.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/resource.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/utils.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/win32_window.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/truthteller_application/windows/runner/win32_window.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,6 +262,8 @@
       <workItem from="1742924488271" duration="22000" />
       <workItem from="1742924511560" duration="2492000" />
       <workItem from="1742955682459" duration="744000" />
+      <workItem from="1742971807106" duration="276000" />
+      <workItem from="1743007615837" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="Rendered flask app template files">
       <option name="closed" value="true" />
@@ -433,7 +292,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Rendered flask app template files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Prediction_py$Flask__src_app_py_.coverage" NAME="Flask (src/app.py) Coverage Results" MODIFIED="1742956293415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Prediction_py$Flask__src_app_py_.coverage" NAME="Flask (src/app.py) Coverage Results" MODIFIED="1742970763999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/TruthTrack$cnt.coverage" NAME="cnt Coverage Results" MODIFIED="1742920327978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TruthTrack$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1742921418777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TruthTrack$app.coverage" NAME="app Coverage Results" MODIFIED="1735575383755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

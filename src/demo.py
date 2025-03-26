@@ -28,14 +28,14 @@ for i in range(1, 100, 10):
         start=i
     )
     search_results.extend(response.get('items', []))
-    if len(search_results) >= 5:  # Stop if we've collected at least 5 results
+    if len(search_results) >= 15:  # Stop if we've collected at least 5 results
         break
 
 # Extract top 5 titles
 top_titles = [result['title'] for result in search_results[:5]]
 
 # Print top 5 titles
-print("Top 5 Headlines:")
+print("Top 15 Headlines:")
 for idx, title in enumerate(top_titles, start=1):
     print(f"{idx}: {title}")
 
