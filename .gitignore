@@ -2,3 +2,7 @@ myenv/
 venv/
 env/
 .vscode/
+.venv
+.idea/
+__pycache__/
+.venv/
