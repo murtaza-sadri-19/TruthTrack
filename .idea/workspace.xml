@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Codebase refactored for deployment">
+    <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Removed Git LFS tracking for dataset files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/PolitiFact/FactChecker_Dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/PolitiFact/ScrapCode.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/TheHinduCricket/Web_Scraping.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/TheHinduCricket/Web_Scrapping_Hindu.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/Web_Scrapping_Snopes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/Web_Scrapping_factcheck.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/categorized_news.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/cricket.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/news.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/news_topic.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,22 +73,22 @@
   <component name="GitHubPullRequestState">{
   &quot;prStates&quot;: []
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/murtaza-sadri-19/TruthTrack.git",
-    "accountId": "a755dd65-15e1-4ad2-abfb-62193416439a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/murtaza-sadri-19/TruthTrack.git&quot;,
+    &quot;accountId&quot;: &quot;a755dd65-15e1-4ad2-abfb-62193416439a&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "murtaza-sadri-19",
-    "repository": "TruthTrack"
+    &quot;owner&quot;: &quot;murtaza-sadri-19&quot;,
+    &quot;repository&quot;: &quot;TruthTrack&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -90,29 +100,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Flask server.Flask (app.py).executor": "Run",
-    "Flask server.Flask (src/app.py).executor": "Run",
-    "Flask server.TruthTrack.executor": "Run",
-    "Python.Prediction.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.cnt.executor": "Run",
-    "Python.similarity.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Murtaza",
-    "last_opened_file_path": "E:/TruthTrack",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Flask server.Flask (app.py).executor&quot;: &quot;Run&quot;,
+    &quot;Flask server.Flask (src/app.py).executor&quot;: &quot;Run&quot;,
+    &quot;Flask server.TruthTrack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cnt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.similarity.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Murtaza&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/TruthTrack&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\TruthTrack" />
@@ -272,7 +282,7 @@
       <workItem from="1742955682459" duration="744000" />
       <workItem from="1742971807106" duration="276000" />
       <workItem from="1743007615837" duration="23000" />
-      <workItem from="1743016323195" duration="2092000" />
+      <workItem from="1743016323195" duration="2989000" />
     </task>
     <task id="LOCAL-00001" summary="Rendered flask app template files">
       <option name="closed" value="true" />
@@ -322,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743018320952</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Removed Git LFS tracking for dataset files">
+      <option name="closed" value="true" />
+      <created>1743018799045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743018799045</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,7 +382,8 @@
     <MESSAGE value="Procfile command added" />
     <MESSAGE value="Codebase refactored" />
     <MESSAGE value="Codebase refactored for deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codebase refactored for deployment" />
+    <MESSAGE value="Removed Git LFS tracking for dataset files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Git LFS tracking for dataset files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Prediction_py$Flask__src_app_py_.coverage" NAME="Flask (src/app.py) Coverage Results" MODIFIED="1743012991815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
