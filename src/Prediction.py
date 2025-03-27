@@ -77,8 +77,8 @@ def predict_topic_words(new_abstract, tfidf_vectorizer, nmf_model, no_top_words=
 
 # If this script is run directly, load models and test prediction (optional)
 if __name__ == "__main__":
-    tfidf_vectorizer = load_model('e:/TruthTrack/Models/tfidf_vectorizer.pkl')
-    nmf_model = load_model('e:/TruthTrack/Models/nmf_model.pkl')
+    tfidf_vectorizer = load_model("git aModels/tfidf_vectorizer.pkl")
+    nmf_model = load_model("Models/nmf_model.pkl")
 
     # Example of predicting the most representative word for a new article
     new_article = "Rohit Sharma, Virat Kohli announce retirement from T20 after world cup."
