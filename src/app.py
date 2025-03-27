@@ -8,9 +8,9 @@ import os
 app = Flask(__name__, template_folder=os.path.abspath('templates'))
 
 # Load models once when starting the app
-tfidf_vectorizer = load_model("E:/TruthTrack/Models/tfidf_vectorizer.pkl")  # Ensure correct path
-nmf_model = load_model("E:/TruthTrack/Models/nmf_model.pkl")  # Ensure correct path
-
+# In src/app.py - Update these lines with relative paths
+tfidf_vectorizer = load_model("Models/tfidf_vectorizer.pkl")
+nmf_model = load_model("Models/nmf_model.pkl")
 
 def google_search(api_key, search_engine_id, query, **params):
     base_url = 'https://www.googleapis.com/customsearch/v1'
