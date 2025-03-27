@@ -4,7 +4,7 @@ from difflib import SequenceMatcher
 from sentence_transformers import SentenceTransformer
 def safe_divide(a, b):
     if b == 0:
-        return 0
+        return 1
     return a / b
 def calculate_similarity(para1, para2):
     """
