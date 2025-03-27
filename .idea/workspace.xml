@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Code refactored resolved dependency">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Code refactored resolved dependency" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,17 +58,24 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GitHubPullRequestState">{
-  &quot;prStates&quot;: [
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
     {
-      &quot;id&quot;: {
-        &quot;id&quot;: &quot;PR_kwDONafvKM6QVLYq&quot;,
-        &quot;number&quot;: 29
+      "id": {
+        "id": "PR_kwDONafvKM6QVLYq",
+        "number": 29
       },
-      &quot;lastSeen&quot;: 1743059504000
+      "lastSeen": 1743059504000
+    },
+    {
+      "id": {
+        "id": "PR_kwDONafvKM6QVxyJ",
+        "number": 33
+      },
+      "lastSeen": 1743093214675
     }
   ]
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/murtaza-sadri-19/TruthTrack.git&quot;,
@@ -98,29 +103,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Flask server.Flask (app.py).executor&quot;: &quot;Run&quot;,
-    &quot;Flask server.Flask (src/app.py).executor&quot;: &quot;Run&quot;,
-    &quot;Flask server.TruthTrack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Prediction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cnt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.similarity.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Murtaza&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/TruthTrack&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Flask server.Flask (app.py).executor": "Run",
+    "Flask server.Flask (src/app.py).executor": "Run",
+    "Flask server.TruthTrack.executor": "Run",
+    "Python.Prediction.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.cnt.executor": "Run",
+    "Python.similarity.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#34 on Murtaza",
+    "last_opened_file_path": "E:/TruthTrack",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\TruthTrack" />
@@ -282,6 +287,7 @@
       <workItem from="1743007615837" duration="23000" />
       <workItem from="1743016323195" duration="2989000" />
       <workItem from="1743057016732" duration="1788000" />
+      <workItem from="1743092993168" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="Rendered flask app template files">
       <option name="closed" value="true" />
@@ -419,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743062587932</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Code refactored resolved dependency">
+      <option name="closed" value="true" />
+      <created>1743093276405</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1743093276405</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
