@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Removed Git LFS tracking for dataset files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/PolitiFact/FactChecker_Dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/PolitiFact/ScrapCode.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/TheHinduCricket/Web_Scraping.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/TheHinduCricket/Web_Scrapping_Hindu.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/Web_Scrapping_Snopes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/Web_Scrapping_factcheck.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/categorized_news.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/cricket.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/news.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataset/news_topic.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Merge remote-tracking branch 'origin/Murtaza' into Murtaza" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,6 +271,7 @@
       <workItem from="1742971807106" duration="276000" />
       <workItem from="1743007615837" duration="23000" />
       <workItem from="1743016323195" duration="2989000" />
+      <workItem from="1743057016732" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="Rendered flask app template files">
       <option name="closed" value="true" />
@@ -340,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743018799045</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/Murtaza' into Murtaza">
+      <option name="closed" value="true" />
+      <created>1743057316693</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743057316693</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +380,8 @@
     <MESSAGE value="Codebase refactored" />
     <MESSAGE value="Codebase refactored for deployment" />
     <MESSAGE value="Removed Git LFS tracking for dataset files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Git LFS tracking for dataset files" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/Murtaza' into Murtaza" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Murtaza' into Murtaza" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Prediction_py$Flask__src_app_py_.coverage" NAME="Flask (src/app.py) Coverage Results" MODIFIED="1743012991815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
