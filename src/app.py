@@ -1,6 +1,6 @@
 import httpx
-from src.Prediction import load_model, predict_topic_words
-from src.similarity import calculate_similarity
+from Prediction import load_model, predict_topic_words
+from similarity import calculate_similarity
 from flask import Flask, request, render_template
 import os
 
@@ -8,7 +8,6 @@ import os
 app = Flask(__name__, template_folder=os.path.abspath('templates'))
 
 # Load models once when starting the app
-# In src/app.py - Update these lines with relative paths
 tfidf_vectorizer = load_model("src/Models/tfidf_vectorizer.pkl")
 nmf_model = load_model("src/Models/nmf_model.pkl")
 
@@ -24,16 +23,13 @@ def google_search(api_key, search_engine_id, query, **params):
     response.raise_for_status()
     return response.json()
 
-
 @app.route("/")
 def home():
     return render_template("index.html")
 
-
 @app.route("/main")
 def about():
     return render_template("main.html")
-
 
 @app.route("/prediction", methods=['GET', 'POST'])
 def prediction():
@@ -97,7 +93,6 @@ def prediction():
 
     else:
         return render_template("main.html")
-
 
 if __name__ == "__main__":
     app.run(debug=True)
