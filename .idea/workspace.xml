@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Code refactored resolved dependency" />
+    <list default="true" id="117af71b-567e-4f48-8821-49af1a3190eb" name="Changes" comment="Code refactored resolved dependency">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,24 +64,24 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GitHubPullRequestState"><![CDATA[{
-  "prStates": [
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
     {
-      "id": {
-        "id": "PR_kwDONafvKM6QVLYq",
-        "number": 29
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDONafvKM6QVLYq&quot;,
+        &quot;number&quot;: 29
       },
-      "lastSeen": 1743059504000
+      &quot;lastSeen&quot;: 1743059504000
     },
     {
-      "id": {
-        "id": "PR_kwDONafvKM6QVxyJ",
-        "number": 33
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDONafvKM6QVxyJ&quot;,
+        &quot;number&quot;: 33
       },
-      "lastSeen": 1743093214675
+      &quot;lastSeen&quot;: 1743093214675
     }
   ]
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/murtaza-sadri-19/TruthTrack.git&quot;,
@@ -103,29 +109,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Flask server.Flask (app.py).executor": "Run",
-    "Flask server.Flask (src/app.py).executor": "Run",
-    "Flask server.TruthTrack.executor": "Run",
-    "Python.Prediction.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.cnt.executor": "Run",
-    "Python.similarity.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#34 on Murtaza",
-    "last_opened_file_path": "E:/TruthTrack",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Flask server.Flask (app.py).executor&quot;: &quot;Run&quot;,
+    &quot;Flask server.Flask (src/app.py).executor&quot;: &quot;Run&quot;,
+    &quot;Flask server.TruthTrack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cnt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monitor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.request.executor&quot;: &quot;Run&quot;,
+    &quot;Python.similarity.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Murtaza&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/TruthTrack-AI-Vigilance&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\TruthTrack" />
@@ -152,6 +160,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="monitor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TruthTrack" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monitor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,6 +242,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Flask server.Flask (src/app.py)" />
+        <item itemvalue="Python.monitor" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +319,15 @@
       <workItem from="1743007615837" duration="23000" />
       <workItem from="1743016323195" duration="2989000" />
       <workItem from="1743057016732" duration="1788000" />
-      <workItem from="1743092993168" duration="359000" />
+      <workItem from="1743092993168" duration="2659000" />
+      <workItem from="1743701031454" duration="1445000" />
+      <workItem from="1743754422500" duration="393000" />
+      <workItem from="1743754841197" duration="33000" />
+      <workItem from="1743943790957" duration="76000" />
+      <workItem from="1743992674344" duration="21000" />
+      <workItem from="1744046502851" duration="2172000" />
+      <workItem from="1744459379785" duration="894000" />
+      <workItem from="1744460968054" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="Rendered flask app template files">
       <option name="closed" value="true" />
@@ -433,7 +473,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743093276405</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Code refactored resolved dependency">
+      <option name="closed" value="true" />
+      <created>1743094299892</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1743094299893</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,8 +532,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Code refactored resolved dependency" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Prediction_py$Flask__src_app_py_.coverage" NAME="Flask (src/app.py) Coverage Results" MODIFIED="1743060955611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Prediction_py$Flask__src_app_py_.coverage" NAME="Flask (src/app.py) Coverage Results" MODIFIED="1743702190783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Prediction_py$request.coverage" NAME="request Coverage Results" MODIFIED="1743702235492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TruthTrack$cnt.coverage" NAME="cnt Coverage Results" MODIFIED="1742920327978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Prediction_py$monitor.coverage" NAME="monitor Coverage Results" MODIFIED="1743702147408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TruthTrack$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1742921418777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TruthTrack$app.coverage" NAME="app Coverage Results" MODIFIED="1735575383755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TruthTrack$Prediction.coverage" NAME="Prediction Coverage Results" MODIFIED="1735615647374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/News Proto" />
